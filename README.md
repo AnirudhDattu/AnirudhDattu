@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Anirudh Dattu and I'm a Student , from BML Munjal University</h2>
 
 ###
 
@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/anirudhdattu?igsh=MTN5eDFsOG1iN3RheQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="anirudhdatt3@gmail.com" target="_blank">
+  <a href="anirudh.dattu.22cse@bmu.edu.in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/anirudhdattu/" target="_blank">
@@ -49,7 +49,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=https://anirudhdattu.medium.com/&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://profile-counter.glitch.me/AnirudhDattu/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=anirudhdattu.medium.com&theme=default" alt="Layout with last medium posts"  />
 </div>
 
 ###
