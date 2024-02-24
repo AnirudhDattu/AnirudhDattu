@@ -42,20 +42,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/AnirudhDattu/AnirudhDattu/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AnirudhDattu/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=anirudhdattu.medium.com&theme=default" alt="Layout with last medium posts"  />
 </div>
 
 ###
