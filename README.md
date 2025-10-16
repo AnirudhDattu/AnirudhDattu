@@ -2,9 +2,9 @@
 
 # 👋 Hello, I'm Anirudh Dattu!
 
-### 🎓 Computer Science Student | 🤖 AI/ML Enthusiast | 🌐 Full Stack Developer
+### 🎓 Cybersecurity Student | 🔒 Security Researcher | 🛡️ Ethical Hacker
 
-*Passionate about creating innovative solutions through technology*
+*Passionate about protecting digital assets and securing the cyber world*
 
 </div>
 
@@ -12,123 +12,135 @@
 
 ## 🚀 About Me
 
-I'm a dedicated Computer Science student at **BML Munjal University**, passionate about leveraging technology to solve real-world problems. My journey spans across **Artificial Intelligence**, **Machine Learning**, **Web Development**, and **Data Analysis**. I believe in building solutions that make a meaningful impact on society.
+I'm a dedicated Cybersecurity student at **BML Munjal University**, passionate about protecting digital infrastructure and securing systems against evolving threats. My journey spans across **Network Security**, **Penetration Testing**, **Threat Analysis**, and **Secure Software Development**. I believe in building robust security solutions that safeguard organizations and individuals from cyber threats.
 
 ### 🎯 What Drives Me
-- **Innovation**: Creating cutting-edge solutions using AI/ML technologies
-- **Impact**: Building applications that address real-world challenges
-- **Learning**: Constantly exploring new technologies and methodologies
-- **Collaboration**: Contributing to open-source projects and community initiatives
+- **Security**: Protecting systems and data from cyber threats and vulnerabilities
+- **Impact**: Developing security solutions that safeguard digital infrastructure
+- **Learning**: Constantly exploring new attack vectors and defense strategies
+- **Collaboration**: Contributing to cybersecurity research and community initiatives
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Cyber Security Projects
 
-### 🥇 [Legal Metrology Compliance Checker - SIH 2025](https://github.com/AnirudhDattu/SIH2025)
+### 🔒 [Legal Metrology Compliance Checker - SIH 2025](https://github.com/AnirudhDattu/SIH2025)
 **🏆 Smart India Hackathon 2025 Project**
 
-An AI-powered system that automatically validates packaged food products against India's Legal Metrology Act using advanced computer vision and natural language processing.
+A secure AI-powered system that validates packaged food products against India's Legal Metrology Act, implementing security best practices for data processing and storage.
 
 **🛠️ Tech Stack:** `Python` `Google Document AI` `Google Gemini` `ChromaDB` `RAG` `MongoDB` `Selenium`
 
 **⭐ Key Features:**
-- Automated OCR processing of product labels
-- AI-powered compliance validation using RAG
-- Real-time web scraping and data extraction
-- Vector database for legal rule matching
+- Secure automated OCR processing with data encryption
+- AI-powered compliance validation with security controls
+- Protected web scraping and data extraction
+- Vector database with access controls for legal rule matching
 
-### 🧠 [Parkinson's Disease Detection](https://github.com/AnirudhDattu/Parkinsons-Detection)
-**🏥 Healthcare AI Solution**
+### 🛡️ [Network Security Analysis Tool](https://github.com/AnirudhDattu/Network-Security)
+**🔐 Network Vulnerability Assessment**
 
-A comprehensive machine learning system for early Parkinson's disease detection using voice recordings and spiral drawings, achieving **86.8% accuracy**.
+A comprehensive penetration testing toolkit for identifying and analyzing network vulnerabilities, including packet sniffing and traffic analysis capabilities.
 
-**🛠️ Tech Stack:** `Python` `Scikit-learn` `Random Forest` `Computer Vision` `Signal Processing`
-
-**⭐ Key Features:**
-- Multi-modal analysis (voice + drawings)
-- Advanced feature extraction techniques
-- Optimized ML models with hyperparameter tuning
-- Non-invasive diagnostic approach
-
-### 📊 [Air Quality Index Analysis](https://github.com/AnirudhDattu/AQI-Analysis)
-**🌍 Environmental Data Science**
-
-Comprehensive analysis of air quality trends across major Indian cities (2015-2020) with interactive visualizations and predictive modeling.
-
-**🛠️ Tech Stack:** `R` `tidyverse` `Data Visualization` `Statistical Analysis`
+**🛠️ Tech Stack:** `Python` `Scapy` `Wireshark` `Nmap` `Network Protocols`
 
 **⭐ Key Features:**
-- Multi-city AQI trend analysis
-- Time series visualization
-- Statistical modeling and insights
-- Clean, reproducible code
+- Network traffic analysis and monitoring
+- Vulnerability scanning and assessment
+- Protocol analysis and exploitation
+- Detailed security reporting
 
-### 🔍 [Number Extraction from Scanned Papers](https://github.com/AnirudhDattu/Number-Extraction-From-Scanned-Paper)
-**🤖 Computer Vision Application**
+### 🔍 [Web Application Security Scanner](https://github.com/AnirudhDattu/WebSec-Scanner)
+**🌐 Application Security Testing**
 
-Advanced OCR system for extracting numerical data from scanned documents using computer vision techniques.
+Automated web application security scanner for detecting common vulnerabilities including SQL injection, XSS, and CSRF attacks.
 
-**🛠️ Tech Stack:** `Python` `OpenCV` `OCR` `Image Processing`
+**🛠️ Tech Stack:** `Python` `Selenium` `BeautifulSoup` `OWASP Testing Framework`
 
 **⭐ Key Features:**
-- Robust text recognition
-- Preprocessing and image enhancement
-- Accurate numerical data extraction
+- Automated vulnerability detection
+- OWASP Top 10 security testing
+- Custom payload generation
+- Comprehensive security reports
 
-### 🌐 [Model United Nations Website](https://github.com/AnirudhDattu/MUNwebsite)
-**🏛️ Event Management Platform**
+### 🔐 [Password Security Analyzer](https://github.com/AnirudhDattu/Password-Analyzer)
+**🔑 Authentication Security**
 
-Full-stack website for Model United Nations BMU 2024, providing comprehensive event information and registration capabilities.
+Advanced tool for analyzing password strength and detecting compromised credentials against known breach databases.
 
-**🛠️ Tech Stack:** `React` `JavaScript` `Vite` `Modern Web Development`
+**🛠️ Tech Stack:** `Python` `Cryptography` `Hash Functions` `Security APIs`
+
+**⭐ Key Features:**
+- Password strength assessment
+- Breach database checking
+- Entropy calculation
+- Security recommendations
+
+### 💻 [Secure Code Review Tool](https://github.com/AnirudhDattu/Secure-Code-Review)
+**🛡️ Static Application Security Testing**
+
+Automated static analysis tool for identifying security vulnerabilities in source code before deployment.
+
+**🛠️ Tech Stack:** `Python` `AST Analysis` `Security Patterns` `Code Analysis`
+
+**⭐ Key Features:**
+- Static code security analysis
+- Vulnerability pattern matching
+- Secure coding recommendations
+- Integration with CI/CD pipelines
 
 ---
 
-## 💻 Technical Skills
+## 💻 Cybersecurity Skills & Tools
 
 <div align="center">
 
-### Languages & Frameworks
+### Programming & Scripting
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
 </div>
 
-### AI/ML & Data Science
+### Security Tools & Frameworks
+**Penetration Testing:** Metasploit | Burp Suite | OWASP ZAP | Nmap | Wireshark | Aircrack-ng
+
+**Network Security:** Snort | Suricata | pfSense | Firewall Management | IDS/IPS
+
+**Vulnerability Assessment:** Nessus | OpenVAS | Nikto | SQLMap | John the Ripper
+
+**Cryptography:** OpenSSL | GPG | HashCat | Cryptographic Libraries
+
+**Web Security:** OWASP Top 10 | XSS | SQL Injection | CSRF | Security Headers
+
+### Operating Systems & Platforms
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo" />
 </div>
 
-### Tools & Databases
+**Security Distributions:** Kali Linux | Parrot OS | BlackArch
+
+### Development & Analysis Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
@@ -152,11 +164,12 @@ Full-stack website for Model United Nations BMU 2024, providing comprehensive ev
 
 ## 🌟 Key Achievements
 
-- 🏆 **Smart India Hackathon 2025** - Developed AI-powered compliance checker
-- 🥇 **Healthcare Innovation** - Created ML system for Parkinson's detection with 86.8% accuracy
-- 📊 **Data Science Excellence** - Conducted comprehensive environmental data analysis
-- 🌐 **Full-Stack Development** - Built multiple responsive web applications
-- 🎯 **Open Source Contributor** - Actively contributing to community projects
+- 🏆 **Smart India Hackathon 2025** - Developed secure AI-powered compliance checker with security best practices
+- 🔒 **Network Security** - Built comprehensive network vulnerability assessment tools
+- 🛡️ **Web Application Security** - Created automated security scanners for OWASP Top 10 vulnerabilities
+- 🔐 **Penetration Testing** - Conducted security assessments and vulnerability research
+- 🎯 **Security Research** - Actively contributing to cybersecurity community and research projects
+- 📚 **Continuous Learning** - Pursuing industry certifications and security training
 
 ---
 
@@ -176,9 +189,9 @@ Full-stack website for Model United Nations BMU 2024, providing comprehensive ev
 
 <div align="center">
 
-### 💡 *"Innovation distinguishes between a leader and a follower"* - Steve Jobs
+### 💡 *"Security is not a product, but a process"* - Bruce Schneier
 
-**🎯 Always open to collaborating on innovative projects and research opportunities!**
+**🎯 Always open to collaborating on cybersecurity research and security projects!**
 
 <img src="https://profile-counter.glitch.me/AnirudhDattu/count.svg" alt="Visitor Count" />
 
