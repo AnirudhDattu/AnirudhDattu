@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudh.dattu.22cse@bmu.edu.in)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Top%201K-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.eu)
 
-📍 Delhi NCR, India | 📞 +91-9246571596
+📍 Pune, India 
 
 </div>
 
